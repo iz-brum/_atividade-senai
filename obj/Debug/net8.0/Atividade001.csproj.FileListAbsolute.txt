@@ -1,0 +1,14 @@
+C:\Users\izann\OneDrive - SENAI\Documentos\senai-ead\Codificação para Back-End\_senai\Atividade001\bin\Debug\net8.0\Atividade001.exe
+C:\Users\izann\OneDrive - SENAI\Documentos\senai-ead\Codificação para Back-End\_senai\Atividade001\bin\Debug\net8.0\Atividade001.deps.json
+C:\Users\izann\OneDrive - SENAI\Documentos\senai-ead\Codificação para Back-End\_senai\Atividade001\bin\Debug\net8.0\Atividade001.runtimeconfig.json
+C:\Users\izann\OneDrive - SENAI\Documentos\senai-ead\Codificação para Back-End\_senai\Atividade001\bin\Debug\net8.0\Atividade001.dll
+C:\Users\izann\OneDrive - SENAI\Documentos\senai-ead\Codificação para Back-End\_senai\Atividade001\bin\Debug\net8.0\Atividade001.pdb
+C:\Users\izann\OneDrive - SENAI\Documentos\senai-ead\Codificação para Back-End\_senai\Atividade001\obj\Debug\net8.0\Atividade001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izann\OneDrive - SENAI\Documentos\senai-ead\Codificação para Back-End\_senai\Atividade001\obj\Debug\net8.0\Atividade001.AssemblyInfoInputs.cache
+C:\Users\izann\OneDrive - SENAI\Documentos\senai-ead\Codificação para Back-End\_senai\Atividade001\obj\Debug\net8.0\Atividade001.AssemblyInfo.cs
+C:\Users\izann\OneDrive - SENAI\Documentos\senai-ead\Codificação para Back-End\_senai\Atividade001\obj\Debug\net8.0\Atividade001.csproj.CoreCompileInputs.cache
+C:\Users\izann\OneDrive - SENAI\Documentos\senai-ead\Codificação para Back-End\_senai\Atividade001\obj\Debug\net8.0\Atividade001.dll
+C:\Users\izann\OneDrive - SENAI\Documentos\senai-ead\Codificação para Back-End\_senai\Atividade001\obj\Debug\net8.0\refint\Atividade001.dll
+C:\Users\izann\OneDrive - SENAI\Documentos\senai-ead\Codificação para Back-End\_senai\Atividade001\obj\Debug\net8.0\Atividade001.pdb
+C:\Users\izann\OneDrive - SENAI\Documentos\senai-ead\Codificação para Back-End\_senai\Atividade001\obj\Debug\net8.0\Atividade001.genruntimeconfig.cache
+C:\Users\izann\OneDrive - SENAI\Documentos\senai-ead\Codificação para Back-End\_senai\Atividade001\obj\Debug\net8.0\ref\Atividade001.dll
